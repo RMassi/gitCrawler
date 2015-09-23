@@ -20,8 +20,11 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/.idea
 
 # OSX
+/node_modules
+/bower_components
 # =========================
 
 .DS_Store
